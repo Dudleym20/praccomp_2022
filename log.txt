@@ -1,0 +1,70 @@
+    1  pwd
+    2  cd Downloads/
+    3  pwd
+    4  mkdir praccomp
+    5  ls
+    6  cd praccomp
+    7  ls
+    8  touch test.txt
+    9  ls
+   10  ls -la
+   11  ls -lah
+   12  echo $PATH
+   13  echo $HOME
+   14  ls
+   15  nano test.txt
+   16  rm test.txt
+   17  ls
+   18  touch test.txt
+   19  mkdir blah
+   20  ls
+   21  rmdir blah
+   22  ls
+   23  mkdir blah 
+   24  touch blah/test2.txt
+   25  rmdir blah
+   26  rm -r blah
+   27  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   28  ls
+   29  bash miniconda
+   30  bash Miniconda3-latest-Linux-x86_64.sh 
+   31  logout
+   32  md5sum 
+   33  mamba install htop
+   34  mamba
+   35  apt install mamba
+   36  mkdir praccomp
+   37  git
+   38  mk dir praccomp
+   39  conda install mamba -c conda -forge
+   40  conda install mamba -c conda-forge
+   41  mamba install htop -c conda-forge
+   42  htop
+   43  mamba install htop -c conda-forge
+   44  htop
+   45  ls
+   46  mkdir praccomp
+   47  cd praccomp/
+   48  git clone https://github.com/Dudleym20/praccomp_2022.git
+   49  cd praccomp_2022/
+   50  ls
+   51  nano README.md
+   52  ;s
+   53  ls
+   54  git status
+   55  git add  README.md
+   56  git add README.md
+   57  git status
+   58  git commit -m "Added README.md"
+   59  git config --global user.email"mimidud1215@gmail.com"
+   60  git config --global user.name "dudleym20"
+   61  git commit -m "Added README.md"
+   62  git config --global user.email "mimidud1215@gmail.com"
+   63  git config --global user.name "dudleym20"
+   64  git commit -m "Added README.md"
+   65  git status
+   66  git push
+   67  git push 
+   68  git push
+   69  history
+   70  history > log.txt
